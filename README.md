@@ -1,8 +1,38 @@
-# React + Vite
+# Self-Learning Code Base
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Making Comfortable With GSAP and Three.js**
 
-Currently, two official plugins are available:
+This code base is designed to help **beginners** get comfortable with the powerful libraries GSAP and Three.js. By working through the provided examples and exercises, you'll gain a solid foundation in creating interactive and immersive web experiences.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Key Features:**
+
+* Fundamental GSAP animations
+* Basic Three.js scene setup
+* Interactive 3D objects
+* Integration of GSAP and Three.js
+
+**Getting Started:**
+
+1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm start`
+
+**Project Structure:**
+
+* `src`: Contains the source code for the project.
+* `public`: Contains static assets.
+
+**Examples:**
+
+* `basic-animation.js`: Demonstrates simple GSAP animations.
+* `3d-scene.js`: Sets up a basic Three.js scene.
+* `interactive-cube.js`: Creates an interactive 3D cube using GSAP and Three.js.
+
+**Additional Resources:**
+
+* GSAP Documentation: https://greensock.com/docs/
+* Three.js Documentation: https://threejs.org/docs/
+
+**License:**
+
+MIT
